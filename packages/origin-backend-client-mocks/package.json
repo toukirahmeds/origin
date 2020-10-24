@@ -23,7 +23,7 @@
         "@energyweb/origin-backend-client": "8.0.0",
         "@energyweb/origin-backend-core": "6.0.0",
         "@energyweb/utils-general": "9.3.0",
-        "moment": "2.24.0",
+        "moment": "2.29.1",
         "moment-range": "4.0.2"
     },
     "files": [
